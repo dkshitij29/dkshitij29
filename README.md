@@ -10,7 +10,8 @@
 - 📄 Know about my experiences [Resume](https://portfolio-dkshitij29-181549a0ac72bb7f35f3125b97a892cd746ce9ebcf.gitlab.io/resources/Resume.pdf)
 <!--- ⚡ Fun fact ****-->
 
-### Blogs posts
+
+### Blogs posts [link](https://portfolio-dkshitij29-181549a0ac72bb7f35f3125b97a892cd746ce9ebcf.gitlab.io/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
