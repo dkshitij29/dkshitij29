@@ -8,3 +8,7 @@
 - 💞️ I’m looking to collaborate on Open souce Repo's
 - 📫 How to reach me on mail:dkshitij@umich.edu
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkshitij29&show_icons=true&locale=en&layout=compact" alt="dkshitij29" /></p>
+
