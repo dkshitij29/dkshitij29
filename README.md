@@ -11,7 +11,7 @@
 - 📄 [Resume](https://portfolio-dkshitij29-181549a0ac72bb7f35f3125b97a892cd746ce9ebcf.gitlab.io/resources/Resume.pdf)
 
 ### Blog Posts
-Check out my latest posts on my [portfolio](https://portfolio-dkshitij29-181549a0ac72bb7f35f3125b97a892cd746ce9ebcf.gitlab.io/).
+Check out my latest posts on my [portfolio](https://kshitij.site).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
