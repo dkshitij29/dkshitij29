@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning JavaScript and TypeScript.
 - 💞️ I’m looking to collaborate on open source repositories.
 - 📫 Reach me at: [dkshitij@umich.edu](mailto:dkshitij@umich.edu)
-- 📄 [Resume](https://portfolio-dkshitij29-181549a0ac72bb7f35f3125b97a892cd746ce9ebcf.gitlab.io/resources/Resume.pdf)
-
+- 📄 [Resume](https://www.kshitij.site/resources/Resume.pdf)
+  
 ### Blog Posts
 Check out my latest posts on my [portfolio](https://kshitij.site).
 
