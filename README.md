@@ -11,7 +11,7 @@
 - 📄 [Resume](https://www.kshitij.site/resources/Resume.pdf)
   
 ### Blog Posts
-Check out my latest posts on my [portfolio](https://kshitij.site).
+Check out my latest posts on my [portfolio](https://www.kshitij.site).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
