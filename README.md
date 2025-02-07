@@ -28,5 +28,7 @@ Check out my latest posts on my [portfolio](https://www.kshitij.site).
 </p>
 
 <p align = "center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dkshitij29&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dkshitij29&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+ -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dkshitij29&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
