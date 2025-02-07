@@ -26,3 +26,7 @@ Check out my latest posts on my [portfolio](https://www.kshitij.site).
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkshitij29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<p align = "center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dkshitij29&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
