@@ -46,7 +46,7 @@
 > Designed a Python-based recommendation engine with multilingual NLP support. Implemented using Flask + Redis for caching and deployed on Render. Supported English, Hindi, and Marathi.
 
 ### 📊 **Portfolio + Resume Site**
-> Custom-built personal website using HTML/CSS and JavaScript. Hosted via GitHub Pages with auto-deployment using GitHub Actions. [Live Site](https://kshitij.site)
+> Custom-built personal website using HTML/CSS and JavaScript. Hosted via GitHub Pages with auto-deployment using GitHub Actions. [Live Site](https://dkshitij29.gitlab.io/portfolio/)
 
 ---
 
