@@ -63,7 +63,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dkshitij29)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14855668/kshitij)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=github&logoColor=white)]((https://dkshitij29.gitlab.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=github&logoColor=white)](https://dkshitij29.gitlab.io/portfolio/)
 [![Resume](https://img.shields.io/badge/-Resume-0A66C2?style=flat&logo=readme&logoColor=white)](https://kshitij.site/resources/Resume.pdf)
 
 ---
